@@ -44,3 +44,5 @@ _Melhoria 2_
 [Google](https://www.google.com)
 
 [https://github.com/jeffmazz](https://github.com/jeffmazz)
+
+Contribuidor principal: https://github.com/jeffmazz
