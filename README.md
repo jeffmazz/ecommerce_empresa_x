@@ -48,3 +48,11 @@ _Melhoria 2_
 Contribuidor principal: https://github.com/jeffmazz
 
 [![Logo do React](./img/react.png)](https://github.com/jeffmazz)
+
+#### Inserindo código no markdown (aceito no markdown do GitHub)
+
+```javascript
+function soma(a,b) {
+    return a + b
+}
+```
