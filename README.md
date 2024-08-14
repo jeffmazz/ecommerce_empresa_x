@@ -37,3 +37,8 @@ _Melhoria 2_
 #### Imagem Externa
 
 ![Logo do JavaScript](https://w7.pngwing.com/pngs/725/775/png-transparent-javascript-html-logo-blog-css3-javanese-miscellaneous-angle-text.png)
+
+
+#### Links Interessantes:
+
+[Google](https://www.google.com)
