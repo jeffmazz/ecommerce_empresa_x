@@ -6,7 +6,7 @@ Vamos criar um **e-commerce** para a *empresa x* e etc
 
 _Checkout, **Tela de Produto**, Catálogo, Home com Banner_
 
-**_Checkout, _Tela de Produto_, Catálogo, Home com Banner_**
+**Checkout, _Tela de Produto_, Catálogo, Home com Banner**
 
 ###### Melhorias do Projeto:
 
