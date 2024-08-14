@@ -29,3 +29,7 @@ _Melhoria 2_
     3. CSS diferente para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+#### Imagem Local
+
+![Logo do React](./img/react.png)
