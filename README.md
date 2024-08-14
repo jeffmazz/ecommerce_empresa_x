@@ -49,10 +49,18 @@ Contribuidor principal: https://github.com/jeffmazz
 
 [![Logo do React](./img/react.png)](https://github.com/jeffmazz)
 
-#### Inserindo código no markdown (aceito no markdown do GitHub)
+## Inserindo código no markdown (aceito no markdown do GitHub)
 
 ```javascript
 function soma(a,b) {
     return a + b
 }
 ```
+
+
+## Lista de tarefas a fazer:
+
+- [ x ] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [ x ] CSS do rodapé
