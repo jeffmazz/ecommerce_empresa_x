@@ -46,3 +46,5 @@ _Melhoria 2_
 [https://github.com/jeffmazz](https://github.com/jeffmazz)
 
 Contribuidor principal: https://github.com/jeffmazz
+
+[![Logo do React](./img/react.png)](https://github.com/jeffmazz)
